@@ -1,0 +1,22 @@
+{
+  "name": "solana-challenge-2",
+  "version": "1.0.0",
+  "description": "someThing about airDrop",
+  "main": "airDrop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tariqrasheed172001/solana-challenge-2.git"
+  },
+  "author": "Tariq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tariqrasheed172001/solana-challenge-2/issues"
+  },
+  "homepage": "https://github.com/tariqrasheed172001/solana-challenge-2#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2"
+  }
+}
